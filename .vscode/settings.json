@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "csharp-smaple.sln"
+    "dotnet.defaultSolution": "csharp-sample.sln"
 }
