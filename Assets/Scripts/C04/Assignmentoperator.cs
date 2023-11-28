@@ -33,6 +33,7 @@ public class Assignmentoperator : MonoBehaviour
         Debug.Log($"a |= 30: {a}");
         a ^= 20;
         // 11110 10100 1010? 검색
+        // 10100  1010같으면 0 다르면 1?인가
         Debug.Log($"a ^= 20: {a}");
         a <<= 10;
         Debug.Log($"a <<= 10: {a}");
